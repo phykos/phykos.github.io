@@ -5,7 +5,7 @@
 
 ![12.jpg](12.jpg)
 
-Just a 15 y/o Ruby, Kotlin, V, Lua developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), I am also learning Haskell.
+Just a 15 y/o Ruby, Kotlin, V, Lua developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), I am also learning Haskell and Elixir.
 
 GNU/Linux Manjaro ARM & Raspbian.
 
