@@ -7,7 +7,7 @@
 
 Just a 15 y/o Ruby, ~~Kotlin, V~~ Lua developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), I am also learning Haskell and ~~Elixir~~ C.
 
-GNU/Linux Arch Linux ARM.
+GNU/Linux Manjaro ARM.
 
 ## Contacts
 
