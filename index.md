@@ -5,7 +5,7 @@
 
 ![12.jpg](12.jpg)
 
-Just a 15 y/o Ruby, ~~Kotlin, V~~ Lua developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), I am also learning Haskell and ~~Elixir~~ C.
+Just a 15 y/o Ruby, ~~Kotlin, V~~ Lua, Crystal, Nim developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), I am also learning Julia, ~~Haskell~~, ~~Elixir~~ and C.
 
 GNU/Linux Manjaro ARM.
 
