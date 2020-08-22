@@ -15,6 +15,6 @@ Currently, I am looking for my own JIT compiler for Ruby.
 
 ## Contacts
 
-- [Telegram](t.me/rubydev)
+- [Telegram](https://t.me/rubydev)
 - [Reddit](https://www.reddit.com/user/GPhykos/)
 - [Gitlab](https://gitlab.com/phykos)
