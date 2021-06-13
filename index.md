@@ -5,7 +5,7 @@
 
 ![12.jpg](12.jpg)
 
-Nothing more like a 17 y/o developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), with some compiler-engineering knowlgde.
+Nothing more than a 17 y/o developer from [Mestre](https://en.wikipedia.org/wiki/Mestre), with some compiler-engineering knowlgde.
 
 ## OSes I'm using currently
 
